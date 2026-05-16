@@ -49,18 +49,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UsamaKhan111&show_icons=true&theme=tokyonight" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaKhan111&theme=tokyonight" />
-
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 </p>
